@@ -2,9 +2,5 @@ com/example/mykotlinlesson01/databinding/ActivityMainBinding.java
  com.example.mykotlinlesson01.databinding.ActivityMainBinding
 com/example/mykotlinlesson01/BuildConfig.java
  com.example.mykotlinlesson01.BuildConfig
-com/example/mykotlinlesson01/databinding/FragmentSecondBinding.java
- com.example.mykotlinlesson01.databinding.FragmentSecondBinding
-com/example/mykotlinlesson01/databinding/ContentMainBinding.java
- com.example.mykotlinlesson01.databinding.ContentMainBinding
-com/example/mykotlinlesson01/databinding/FragmentFirstBinding.java
- com.example.mykotlinlesson01.databinding.FragmentFirstBinding
+com/example/mykotlinlesson01/databinding/ActivitySubBinding.java
+ com.example.mykotlinlesson01.databinding.ActivitySubBinding

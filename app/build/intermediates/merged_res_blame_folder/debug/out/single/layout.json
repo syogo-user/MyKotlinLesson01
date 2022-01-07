@@ -4,6 +4,10 @@
         "source": "/Users/onoderashougo/Kiroru/Lesson/Program/Kotlin/MyCreate/MyKotlinLesson01/app/src/main/res/layout/fragment_first.xml"
     },
     {
+        "merged": "/Users/onoderashougo/Kiroru/Lesson/Program/Kotlin/MyCreate/MyKotlinLesson01/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sub.xml",
+        "source": "/Users/onoderashougo/Kiroru/Lesson/Program/Kotlin/MyCreate/MyKotlinLesson01/app/src/main/res/layout/activity_sub.xml"
+    },
+    {
         "merged": "/Users/onoderashougo/Kiroru/Lesson/Program/Kotlin/MyCreate/MyKotlinLesson01/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
         "source": "/Users/onoderashougo/Kiroru/Lesson/Program/Kotlin/MyCreate/MyKotlinLesson01/app/src/main/res/layout/content_main.xml"
     },

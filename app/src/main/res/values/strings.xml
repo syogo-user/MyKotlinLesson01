@@ -1,12 +1,21 @@
 <resources>
     <string name="app_name">MyKotlinLesson01</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="log_button">ボタン1</string>
+    <string name="log_message">ボタン1が押されました。</string>
+
+    <string name="toast_button">ボタン2</string>
+    <string name="toast_message">ボタン2が押されました。</string>
+
+    <string name="alert_dialog_button">ボタン3</string>
+    <string name="alert_dialog_title">タイトル</string>
+    <string name="alert_dialog_message">ボタン3が押されました。</string>
+    <string name="alert_dialog_ok_button">OK</string>
+
+    <string name="transition_button">ボタン4</string>
+    <string name="sub_activity_message">ボタン4が押されました。</string>
+    <string name="close_button">閉じる</string>
+
+    <string name="edit_text_button">ボタン5</string>
+    <string name="edit_text_message">ボタン5が押されました。</string>
 </resources>
